@@ -39,4 +39,7 @@ The code is divided into two main parts:
 ## **Results**
 The project successfully reads the accelerometer data, displays it on the LCD screen, and visualizes it in real-time using MATLAB. The 3D plot updates dynamically as the board is tilted, showing the changes in the x, y, and z axes.
 
-<img src="Accelerometer_Output.png" alt="Output" width="400">
+<img src="Output2.jpeg" alt="Output" width="400">
+<br>
+<img src="Output1.jpeg" alt="Output" width="400">
+
