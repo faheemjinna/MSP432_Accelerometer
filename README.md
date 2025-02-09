@@ -1,4 +1,4 @@
-# **MSP432 Lab 2 - Accelerometer**
+# **MSP432 - Accelerometer**
 
 ## **Overview**
 This lab demonstrates the integration of a 3-axis accelerometer (Kionix KXTC9-2050) with the MSP432P401R microcontroller to measure and display acceleration values. The accelerometer data is displayed on the LCD screen and visualized in real-time using MATLAB. The experiment involves reading acceleration values in the x, y, and z axes, displaying them on the LCD, and plotting them in a 3D graph.
